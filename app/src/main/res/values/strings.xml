@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MovieListWithSql</string>
+    <string name="movie_tab">Movie</string>
+    <string name="tv_show_tab">TV shows</string>
+
+    <string name="fav_movie_tab">Fav Movie</string>
+    <string name="fav_tv_show_tab">Fav Tv Show</string>
+
+
+    <string name="language">Change language</string>
+    <string name="mode_language">Mode: English</string>
+    <string name="api_lang">en-US</string>
+    <string name="favorite">Add to Favorite</string>
+
+
+    <string name="delete">Are you sure to delete?</string>
+    <string name="warning">Warning!!</string>
+    <string name="data_kosong">"No record found..."</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="hapus">Delete Successfully</string>
+    <string name="tambah">Added Successfully</string>
+
+
+    <string name="nama_film">Name: </string>
+    <string name="nilai">Score: </string>
+</resources>

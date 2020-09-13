@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MovieListWithSql</string>
+    <string name="movie_tab">Film</string>
+    <string name="tv_show_tab">Acara Tv</string>
+
+    <string name="fav_movie_tab">Fav film</string>
+    <string name="fav_tv_show_tab">Fav Acara Tv</string>
+
+    <string name="language">Ubah Bahasa</string>
+    <string name="mode_language">Mode: Indonesia</string>
+    <string name="api_lang">id-ID</string>
+    <string name="favorite">Tambahkan ke favorit</string>
+
+    <string name="delete">Yakin ingin menghapus?</string>
+    <string name="warning">Perhatian!!</string>
+    <string name="data_kosong">"Data Kosong"</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Batal</string>
+    <string name="hapus">Berhasil Dihapus</string>
+    <string name="tambah">Berhasil Ditambahkan</string>
+
+    <string name="nama_film">Nama: </string>
+    <string name="nilai">Nilai: </string>
+</resources>
