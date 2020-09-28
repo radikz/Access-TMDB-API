@@ -14,7 +14,7 @@ implementation 'com.github.bumptech.glide:glide:3.7.0'
 ---
 ## MyAsyncTaskLoader.java and MyAsyncTaskLoaderTv.java
 ```java
-private static final String API_KEY = "YOUR API-KEY"; //Change your IP here
+private static final String API_KEY = "YOUR API-KEY"; //Change your API KEY here
 ```
 ---
 
