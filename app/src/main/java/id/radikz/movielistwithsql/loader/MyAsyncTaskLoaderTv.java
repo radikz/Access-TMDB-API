@@ -57,11 +57,8 @@ public class MyAsyncTaskLoaderTv extends AsyncTaskLoader<ArrayList<TvShow>> {
         }
     }
 
-    private static final String API_KEY = "ef89e61c8a5eab5624af0b6b8802021e";
+    private static final String API_KEY = "YOUR API-KEY";
 
-    // Format search kota url JAKARTA = 1642911 ,BANDUNG = 1650357, SEMARANG = 1627896
-    // http://api.openweathermap.org/data/2.5/group?id=1642911,1650357,1627896&units=metric&appid=API_KEY
-    //en-US
 
     @Override
     public ArrayList<TvShow> loadInBackground() {
