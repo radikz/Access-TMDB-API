@@ -10,6 +10,14 @@ implementation 'com.loopj.android:android-async-http:1.4.9'
 implementation 'com.github.bumptech.glide:glide:3.7.0'
 ```
 ---
+
+---
+## MyAsyncTaskLoader.java and MyAsyncTaskLoaderTv.java
+```java
+private static final String API_KEY = "YOUR API-KEY"; //Change your IP here
+```
+---
+
 ## Features
 - Tab Layout
 - Add to favorite with sqlite
